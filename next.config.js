@@ -4,7 +4,9 @@ const nextConfig = {
   images: {
     loader: "akamai",
     path: "",
-  }
+    eslint: {
+      dirs: ['pages', 'utils'],
+  },
 }
 
 module.exports = nextConfig
