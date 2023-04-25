@@ -10,8 +10,10 @@ function Home () {
       <div className=" pt-4 pr-6 bg-gray-150">
           
           <Navigation />
+          <h1>dsdn</h1>
           <div>
              <Details />
+             <h1>j</h1>
           </div>
           
       </div>
